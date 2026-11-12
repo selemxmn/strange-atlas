@@ -28,3 +28,7 @@ vendor/               three.js r147, d3 7.9, topojson-client 3.1
 fonts/                woff2 files (OFL)
 ```
 Deep links: `#d-zanzibar-war`, `#p-tesla`, `#c-250` (ISO numeric), `#people`, `#trail`.
+
+## Credits
+
+Built from one prompt with Claude Opus 5.5 and expanded with Claude Fable 5.2 (about 290,000 tokens written), by [@smnassri_](https://x.com/smnassri_).
