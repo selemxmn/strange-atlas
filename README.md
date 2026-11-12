@@ -31,4 +31,4 @@ Deep links: `#d-zanzibar-war`, `#p-tesla`, `#c-250` (ISO numeric), `#people`, `#
 
 ## Credits
 
-Built from one prompt with Claude Opus 5.5 and expanded with Claude Fable 5.2 (about 290,000 tokens written), by [@smnassri_](https://x.com/smnassri_).
+Built from one prompt with Claude Opus 5.5 (about 290,000 tokens written), by [@smnassri_](https://x.com/smnassri_).
